@@ -63,6 +63,7 @@ views:
 ## 📸 Dashboard
 ![Dashboard Preview](images/dashboard.png.jpg)
 
+
 ![Dashboard Preview](images/Energy-usage-dashboard.jpeg)
 
 ---
