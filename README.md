@@ -62,10 +62,23 @@ views:
 
 ## 📸 Dashboard
 ![Dashboard Preview](images/dashboard.png.jpg)
+![Dashboard Preview](images/Energy-usage-dashboard.png.jpeg)
 
 ---
 
 ## 🎥 Videos
+<div style="display: flex; gap: 10px; width: 100%;">
+
+  <div style="flex: 1; text-align: center;">
+    <p><b>Energy Usage Grapgh</b></p>
+    <video width="100%" controls>
+      <source src="videos/energy_graph.mp4" type="video/mp4">
+    </video>
+    <p><a href="videos/energy_graph.mp4">▶ Watch / Download</a></p>
+  </div>
+
+</div>
+
 <div style="display: flex; gap: 10px; width: 100%;">
 
   <div style="flex: 1; text-align: center;">
